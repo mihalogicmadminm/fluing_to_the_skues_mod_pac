@@ -3,4 +3,7 @@ filename = "CreateDragonsPlus-1.11.9.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

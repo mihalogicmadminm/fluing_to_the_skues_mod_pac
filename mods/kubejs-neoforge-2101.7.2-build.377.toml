@@ -3,4 +3,7 @@ filename = "kubejs-neoforge-2101.7.2-build.377.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

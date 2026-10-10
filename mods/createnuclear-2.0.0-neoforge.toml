@@ -3,4 +3,7 @@ filename = "createnuclear-2.0.0-neoforge.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

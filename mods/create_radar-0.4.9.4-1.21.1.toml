@@ -3,4 +3,7 @@ filename = "create_radar-0.4.9.4-1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

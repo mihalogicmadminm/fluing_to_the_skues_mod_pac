@@ -3,4 +3,7 @@ filename = "rhino-2101.2.8-build.91.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

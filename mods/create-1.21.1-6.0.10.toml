@@ -3,4 +3,7 @@ filename = "create-1.21.1-6.0.10.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

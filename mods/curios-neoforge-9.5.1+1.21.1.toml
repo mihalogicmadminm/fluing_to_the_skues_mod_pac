@@ -3,4 +3,7 @@ filename = "curios-neoforge-9.5.1+1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

@@ -3,4 +3,7 @@ filename = "sophisticatedbackpacks-1.21.1-3.26.9.2195.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false

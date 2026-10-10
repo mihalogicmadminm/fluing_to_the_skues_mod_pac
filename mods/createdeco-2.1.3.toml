@@ -3,4 +3,7 @@ filename = "createdeco-2.1.3.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+hash-format = "sha256" 
+hash = "" 
+mode = "metadata" 
+update = false
