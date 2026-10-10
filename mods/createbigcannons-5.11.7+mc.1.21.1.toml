@@ -3,4 +3,5 @@ filename = "createbigcannons-5.11.7+mc.1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

@@ -3,4 +3,5 @@ filename = "sodium-extra-neoforge-0.9.4+mc1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

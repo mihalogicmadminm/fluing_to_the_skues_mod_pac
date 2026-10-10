@@ -3,4 +3,5 @@ filename = "curios-neoforge-9.5.1+1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

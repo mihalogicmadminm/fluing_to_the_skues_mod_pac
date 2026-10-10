@@ -3,4 +3,5 @@ filename = "cc-tweaked-1.21.1-forge-1.120.2.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

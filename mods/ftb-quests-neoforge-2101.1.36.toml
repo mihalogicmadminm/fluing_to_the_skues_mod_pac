@@ -3,4 +3,5 @@ filename = "ftb-quests-neoforge-2101.1.36.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

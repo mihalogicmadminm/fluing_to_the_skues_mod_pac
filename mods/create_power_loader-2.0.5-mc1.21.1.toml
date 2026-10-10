@@ -3,4 +3,5 @@ filename = "create_power_loader-2.0.5-mc1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

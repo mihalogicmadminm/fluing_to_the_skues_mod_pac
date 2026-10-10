@@ -3,4 +3,5 @@ filename = "create-dyn-light-forge-1.21.1-2.0.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

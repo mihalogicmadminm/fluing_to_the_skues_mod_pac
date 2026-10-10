@@ -3,4 +3,5 @@ filename = "truenorth-0.1.2.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

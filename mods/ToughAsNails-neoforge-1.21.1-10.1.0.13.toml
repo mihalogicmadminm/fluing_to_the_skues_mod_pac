@@ -3,4 +3,5 @@ filename = "ToughAsNails-neoforge-1.21.1-10.1.0.13.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

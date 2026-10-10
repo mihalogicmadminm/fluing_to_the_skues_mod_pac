@@ -3,4 +3,5 @@ filename = "create-enchantment-industry-2.5.4b.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

@@ -3,4 +3,5 @@ filename = "create-dyn-light-2.3.1-sodium-sable.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false

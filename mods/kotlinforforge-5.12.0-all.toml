@@ -3,4 +3,5 @@ filename = "kotlinforforge-5.12.0-all.jar"
 side = "both" 
  
 [download] 
-mode = "lite"
+mode = "lite" 
+update = false
