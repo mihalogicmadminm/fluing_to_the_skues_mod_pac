@@ -1,0 +1,6 @@
+name = "jei-1.21.1-neoforge-19.57.0.451" 
+filename = "jei-1.21.1-neoforge-19.57.0.451.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

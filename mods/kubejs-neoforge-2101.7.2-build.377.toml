@@ -1,0 +1,6 @@
+name = "kubejs-neoforge-2101.7.2-build.377" 
+filename = "kubejs-neoforge-2101.7.2-build.377.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

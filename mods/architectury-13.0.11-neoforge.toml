@@ -1,0 +1,6 @@
+name = "architectury-13.0.11-neoforge" 
+filename = "architectury-13.0.11-neoforge.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

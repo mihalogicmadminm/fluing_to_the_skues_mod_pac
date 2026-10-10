@@ -1,0 +1,6 @@
+name = "linearbearing-1.3.5" 
+filename = "linearbearing-1.3.5.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

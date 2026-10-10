@@ -1,0 +1,6 @@
+name = "ImmersiveEngineering-1.21.1-12.4.2-194" 
+filename = "ImmersiveEngineering-1.21.1-12.4.2-194.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

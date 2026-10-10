@@ -1,0 +1,6 @@
+name = "create-enchantment-industry-2.5.4b" 
+filename = "create-enchantment-industry-2.5.4b.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

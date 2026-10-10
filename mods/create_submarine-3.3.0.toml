@@ -1,0 +1,6 @@
+name = "create_submarine-3.3.0" 
+filename = "create_submarine-3.3.0.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

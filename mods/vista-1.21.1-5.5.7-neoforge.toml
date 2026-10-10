@@ -1,0 +1,6 @@
+name = "vista-1.21.1-5.5.7-neoforge" 
+filename = "vista-1.21.1-5.5.7-neoforge.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

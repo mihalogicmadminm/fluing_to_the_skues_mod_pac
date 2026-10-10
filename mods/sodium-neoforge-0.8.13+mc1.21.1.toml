@@ -1,0 +1,6 @@
+name = "sodium-neoforge-0.8.13+mc1.21.1" 
+filename = "sodium-neoforge-0.8.13+mc1.21.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

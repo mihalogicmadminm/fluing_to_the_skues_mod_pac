@@ -1,0 +1,6 @@
+name = "sable_player_ragdoll-1.21.1-0.7.5" 
+filename = "sable_player_ragdoll-1.21.1-0.7.5.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

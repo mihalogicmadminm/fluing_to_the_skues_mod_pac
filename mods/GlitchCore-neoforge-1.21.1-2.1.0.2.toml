@@ -1,0 +1,6 @@
+name = "GlitchCore-neoforge-1.21.1-2.1.0.2" 
+filename = "GlitchCore-neoforge-1.21.1-2.1.0.2.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

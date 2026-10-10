@@ -1,0 +1,6 @@
+name = "aerocopycats-1.1.1" 
+filename = "aerocopycats-1.1.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

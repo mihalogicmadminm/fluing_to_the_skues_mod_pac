@@ -1,0 +1,6 @@
+name = "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge" 
+filename = "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

@@ -1,0 +1,6 @@
+name = "create-1.21.1-6.0.10" 
+filename = "create-1.21.1-6.0.10.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

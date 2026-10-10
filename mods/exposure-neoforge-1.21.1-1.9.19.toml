@@ -1,0 +1,6 @@
+name = "exposure-neoforge-1.21.1-1.9.19" 
+filename = "exposure-neoforge-1.21.1-1.9.19.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

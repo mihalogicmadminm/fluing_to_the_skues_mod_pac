@@ -1,0 +1,6 @@
+name = "create_connected-1.3.3-mc1.21.1" 
+filename = "create_connected-1.3.3-mc1.21.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

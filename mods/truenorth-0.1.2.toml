@@ -1,0 +1,6 @@
+name = "truenorth-0.1.2" 
+filename = "truenorth-0.1.2.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

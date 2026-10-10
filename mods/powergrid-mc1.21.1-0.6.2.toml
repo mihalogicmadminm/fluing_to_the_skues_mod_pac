@@ -1,0 +1,6 @@
+name = "powergrid-mc1.21.1-0.6.2" 
+filename = "powergrid-mc1.21.1-0.6.2.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

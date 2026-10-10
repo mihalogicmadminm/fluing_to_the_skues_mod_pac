@@ -1,0 +1,6 @@
+name = "oceansdelight-neoforge-1.0.4-1.21.1" 
+filename = "oceansdelight-neoforge-1.0.4-1.21.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

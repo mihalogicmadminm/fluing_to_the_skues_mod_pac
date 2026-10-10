@@ -1,0 +1,13 @@
+name = "Create Expanded Potato Cannon"
+filename = "create_expanded_potato_cannon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IS3mRvvU/versions/3pxzvDnh/create_expanded_potato_cannon-1.0.0.jar"
+hash-format = "sha512"
+hash = "adf01f0daee433116fac48a8138da4ace986113487431001c1be200ad379df132ea4e9c39a7196519ced725e64fca13f6d8f9a6717317bccbfe3776dce33858a"
+
+[update]
+[update.modrinth]
+mod-id = "IS3mRvvU"
+version = "3pxzvDnh"

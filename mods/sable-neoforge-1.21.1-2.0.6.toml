@@ -1,0 +1,6 @@
+name = "sable-neoforge-1.21.1-2.0.6" 
+filename = "sable-neoforge-1.21.1-2.0.6.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

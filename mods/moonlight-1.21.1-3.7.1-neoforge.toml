@@ -1,0 +1,6 @@
+name = "moonlight-1.21.1-3.7.1-neoforge" 
+filename = "moonlight-1.21.1-3.7.1-neoforge.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

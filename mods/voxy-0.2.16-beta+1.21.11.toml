@@ -1,0 +1,6 @@
+name = "voxy-0.2.16-beta+1.21.11" 
+filename = "voxy-0.2.16-beta+1.21.11.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

@@ -1,0 +1,6 @@
+name = "CBCmoreshells-1.4.0" 
+filename = "CBCmoreshells-1.4.0.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

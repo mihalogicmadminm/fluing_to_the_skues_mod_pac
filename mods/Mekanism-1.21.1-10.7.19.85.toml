@@ -1,0 +1,6 @@
+name = "Mekanism-1.21.1-10.7.19.85" 
+filename = "Mekanism-1.21.1-10.7.19.85.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

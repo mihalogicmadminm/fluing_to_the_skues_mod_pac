@@ -1,0 +1,6 @@
+name = "ftb-library-neoforge-2101.1.37" 
+filename = "ftb-library-neoforge-2101.1.37.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

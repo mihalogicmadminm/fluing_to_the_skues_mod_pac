@@ -1,0 +1,6 @@
+name = "create-dyn-light-forge-1.21.1-2.0.1" 
+filename = "create-dyn-light-forge-1.21.1-2.0.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

@@ -1,0 +1,6 @@
+name = "ferritecore-7.0.3-neoforge" 
+filename = "ferritecore-7.0.3-neoforge.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

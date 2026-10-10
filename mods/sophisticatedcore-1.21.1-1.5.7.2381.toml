@@ -1,0 +1,6 @@
+name = "sophisticatedcore-1.21.1-1.5.7.2381" 
+filename = "sophisticatedcore-1.21.1-1.5.7.2381.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

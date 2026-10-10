@@ -1,0 +1,6 @@
+name = "ftb-quests-neoforge-2101.1.36" 
+filename = "ftb-quests-neoforge-2101.1.36.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

@@ -1,0 +1,6 @@
+name = "tfmg-1.21.1-1.3.2a-community" 
+filename = "tfmg-1.21.1-1.3.2a-community.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"

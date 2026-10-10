@@ -1,0 +1,6 @@
+name = "FTBQuestsOptimizer-neoforge-3.2.0-1.21.1" 
+filename = "FTBQuestsOptimizer-neoforge-3.2.0-1.21.1.jar" 
+side = "both" 
+ 
+[download] 
+mode = "lite"
