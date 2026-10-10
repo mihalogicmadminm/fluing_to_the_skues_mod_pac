@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "compare.ps1"
-hash = "9b811a66cc1fcf0d98381c7a132170745d6c7e079b6713f36c83e42d50740f2e"
-
-[[files]]
 file = "config/packwiz-modpack-loader.json"
 hash = "11903a1e73a930f75b8db2aed04de80db2c0c4f5f2573dfffaf2d301d2c9f116"
 
@@ -647,14 +643,6 @@ hash = "1a5e08329d16ddb3579b0e76e657551ac6b976378ec01d5d173b4827447d694d"
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.26.9.2195.toml"
 hash = "fda8af774afb7cb6a98d6ad80c0381ebd38b674cb410753150b7157050e1fa02"
-
-[[files]]
-file = "mods/sophisticatedcore-1.21.1-1.5.2.2343.jar"
-hash = "91f4d52d4b10c60ecf28e42672c296e680ccd9e693c7e27d79fef568189c2f13"
-
-[[files]]
-file = "mods/sophisticatedcore-1.21.1-1.5.2.2343.toml"
-hash = "e2dda41d4c5d122d67555a5424f164ebff03bc8d7b8cd01126e2a31845e92a60"
 
 [[files]]
 file = "mods/sophisticatedcore-1.21.1-1.5.7.2381.jar"
