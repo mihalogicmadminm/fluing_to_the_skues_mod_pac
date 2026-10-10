@@ -3,5 +3,4 @@ filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

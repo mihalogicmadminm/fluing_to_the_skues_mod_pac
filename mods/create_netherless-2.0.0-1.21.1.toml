@@ -3,5 +3,4 @@ filename = "create_netherless-2.0.0-1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

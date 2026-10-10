@@ -3,5 +3,4 @@ filename = "lanserverproperties-1.13.2-neoforge.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

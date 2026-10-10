@@ -3,5 +3,4 @@ filename = "sliceanddice-4.3.4-neoforge.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

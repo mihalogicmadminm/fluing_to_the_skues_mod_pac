@@ -3,5 +3,4 @@ filename = "create_expanded_potato_cannon-1.0.0.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

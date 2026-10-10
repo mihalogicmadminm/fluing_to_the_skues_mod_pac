@@ -3,5 +3,4 @@ filename = "journeymap-neoforge-1.21.1-6.0.9.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

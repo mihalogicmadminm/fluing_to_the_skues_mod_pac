@@ -3,5 +3,4 @@ filename = "voicechat-neoforge-1.21.1-2.6.24.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

@@ -3,5 +3,4 @@ filename = "ragdoll_reactions-1.21.1-0.7.0.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

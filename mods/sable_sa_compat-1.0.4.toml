@@ -3,5 +3,4 @@ filename = "sable_sa_compat-1.0.4.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

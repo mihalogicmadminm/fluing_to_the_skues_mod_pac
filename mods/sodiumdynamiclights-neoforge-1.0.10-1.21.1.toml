@@ -3,5 +3,4 @@ filename = "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

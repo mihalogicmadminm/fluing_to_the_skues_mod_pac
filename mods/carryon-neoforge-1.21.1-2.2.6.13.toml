@@ -3,5 +3,4 @@ filename = "carryon-neoforge-1.21.1-2.2.6.13.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

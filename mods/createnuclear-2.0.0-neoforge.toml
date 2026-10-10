@@ -3,5 +3,4 @@ filename = "createnuclear-2.0.0-neoforge.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

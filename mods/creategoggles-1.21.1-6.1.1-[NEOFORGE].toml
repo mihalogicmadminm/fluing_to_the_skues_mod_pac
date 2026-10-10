@@ -3,5 +3,4 @@ filename = "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

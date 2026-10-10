@@ -3,5 +3,4 @@ filename = "Jade-1.21.1-NeoForge-15.10.6.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

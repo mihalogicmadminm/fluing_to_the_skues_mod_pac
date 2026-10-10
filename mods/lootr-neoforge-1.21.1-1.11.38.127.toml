@@ -3,5 +3,4 @@ filename = "lootr-neoforge-1.21.1-1.11.38.127.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

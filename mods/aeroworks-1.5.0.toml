@@ -3,5 +3,4 @@ filename = "aeroworks-1.5.0.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

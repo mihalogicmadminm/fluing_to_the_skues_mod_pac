@@ -3,5 +3,4 @@ filename = "create-stuff-additions1.21.1_v2.1.4b.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

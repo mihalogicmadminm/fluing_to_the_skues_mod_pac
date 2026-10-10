@@ -3,5 +3,4 @@ filename = "roxy-1.21.1-NeoForge-0.4.0.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

@@ -3,5 +3,4 @@ filename = "aerocopycats-1.1.1.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

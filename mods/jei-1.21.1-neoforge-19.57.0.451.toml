@@ -3,5 +3,4 @@ filename = "jei-1.21.1-neoforge-19.57.0.451.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"

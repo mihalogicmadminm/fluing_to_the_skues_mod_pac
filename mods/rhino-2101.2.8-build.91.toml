@@ -3,5 +3,4 @@ filename = "rhino-2101.2.8-build.91.jar"
 side = "both" 
  
 [download] 
-mode = "lite" 
-update = false
+mode = "lite"
