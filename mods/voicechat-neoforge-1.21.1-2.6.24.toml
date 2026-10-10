@@ -3,7 +3,5 @@ filename = "voicechat-neoforge-1.21.1-2.6.24.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

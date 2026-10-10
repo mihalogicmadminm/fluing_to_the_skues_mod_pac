@@ -3,7 +3,5 @@ filename = "sophisticatedcore-1.21.1-1.5.7.2381.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

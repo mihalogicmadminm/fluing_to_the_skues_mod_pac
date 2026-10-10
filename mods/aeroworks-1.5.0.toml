@@ -3,7 +3,5 @@ filename = "aeroworks-1.5.0.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

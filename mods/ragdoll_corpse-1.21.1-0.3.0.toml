@@ -3,7 +3,5 @@ filename = "ragdoll_corpse-1.21.1-0.3.0.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

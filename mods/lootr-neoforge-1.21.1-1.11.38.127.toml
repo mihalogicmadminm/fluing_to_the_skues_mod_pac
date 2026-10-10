@@ -3,7 +3,5 @@ filename = "lootr-neoforge-1.21.1-1.11.38.127.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

@@ -3,7 +3,5 @@ filename = "ftb-quests-neoforge-2101.1.36.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

@@ -3,7 +3,5 @@ filename = "linearbearingsfix-1.0.3.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

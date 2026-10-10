@@ -3,7 +3,5 @@ filename = "create_netherless-2.0.0-1.21.1.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

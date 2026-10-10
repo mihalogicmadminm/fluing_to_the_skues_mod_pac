@@ -3,7 +3,5 @@ filename = "create_tweaked_controllers-1.21.1-1.2.7.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

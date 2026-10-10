@@ -3,7 +3,5 @@ filename = "CustomSkinLoader_Universal-15.0.1.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

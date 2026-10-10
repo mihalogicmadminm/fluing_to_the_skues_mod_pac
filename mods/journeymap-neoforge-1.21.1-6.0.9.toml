@@ -3,7 +3,5 @@ filename = "journeymap-neoforge-1.21.1-6.0.9.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false

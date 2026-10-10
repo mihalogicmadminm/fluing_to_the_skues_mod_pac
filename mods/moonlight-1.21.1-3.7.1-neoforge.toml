@@ -3,7 +3,5 @@ filename = "moonlight-1.21.1-3.7.1-neoforge.jar"
 side = "both" 
  
 [download] 
-hash-format = "sha256" 
-hash = "" 
-mode = "metadata" 
+mode = "lite" 
 update = false
